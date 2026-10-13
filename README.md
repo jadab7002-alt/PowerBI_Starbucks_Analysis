@@ -39,3 +39,7 @@ Avg Caffeine    = AVERAGE(starbucks[Caffeine (mg)])
 ## Tools
 
 Power BI Desktop, Power Query, DAX
+
+## ScreenShots
+
+DashBoard_Preview: (https://github.com/jadab7002-alt/PowerBI_Starbucks_Analysis/blob/main/Dashboard_View.png)

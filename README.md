@@ -40,6 +40,10 @@ Avg Caffeine    = AVERAGE(starbucks[Caffeine (mg)])
 
 Power BI Desktop, Power Query, DAX
 
+## How to Open
+
+Download `PowerBI_Starbucks_Analysis.pbix` and open it in Power BI Desktop (Windows).
+
 ## ScreenShots
 
 DashBoard_Preview: (https://github.com/jadab7002-alt/PowerBI_Starbucks_Analysis/blob/main/Dashboard_View.png)
